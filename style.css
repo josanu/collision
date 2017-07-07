@@ -1,0 +1,172 @@
+#page_links
+{
+    font-family: arial, verdana;
+    font-size: 12px;
+    border:1px #000000 solid;
+    padding: 6px;
+    margin: 3px;
+    background-color: #cccccc;
+    text-decoration: none;
+}
+
+#page_a_link
+{
+    font-family: arial, verdana;
+    font-size: 12px;
+    border:1px #000000 solid;
+    color: #ff0000;
+    background-color: #cccccc;
+    padding: 6px;
+    margin: 3px;
+    text-decoration: none;
+}
+
+
+#box-table-a
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 18px;
+	margin: 45px;
+	alignment-adjust:middle;
+	text-align: left;
+	border-collapse: collapse;
+}
+
+#box-table-a th
+{
+	font-size: 13px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe;
+	border-top: 4px solid #aabcfe;
+	border-bottom: 1px solid #fff;
+	color: #039;
+}
+
+#box-table-a td
+{
+	padding: 8px;
+	font-size: 18px;
+	background: #e8edff; 
+	border-bottom: 1px solid #fff;
+	color: #669;
+	border-top: 1px solid transparent;
+}
+
+#box-table-a tr:hover td
+{
+	background: #d0dafd;
+	color: #339;
+}
+
+#box-table-b
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+	font-size: 12px;
+	margin: 45px;
+	width: 480px;
+	text-align: center;
+	border-collapse: collapse;
+	border-top: 7px solid #9baff1;
+	border-bottom: 7px solid #9baff1;
+}
+
+#box-table-b th
+{
+	font-size: 13px;
+	font-weight: normal;
+	padding: 8px;
+	background: #e8edff;
+	border-right: 1px solid #9baff1;
+	border-left: 1px solid #9baff1;
+	color: #039;
+}
+
+#box-table-b td
+{
+	padding: 8px;
+	background: #e8edff; 
+	border-right: 1px solid #aabcfe;
+	border-left: 1px solid #aabcfe;
+	color: #669;
+}
+
+#box-count
+{
+	margin-left:64px; 
+	margin-right:64px;
+}
+
+#button {
+    background-color: #92cae4;
+    border:1px solid #205791;
+    color:white;
+    padding:5px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow:1px 1px 5px black;
+    tex-shadow:1px 1px black;
+}
+
+#paginacion {
+	margin-left:58px; 
+	margin-right:58px; 
+	padding:6px; 
+	background-color:#FFF; 
+	border:#999 1px solid;
+}
+
+.pagNumActive {
+    color: #000;
+    border:#060 1px solid; background-color: #D2FFD2; padding-left:3px; padding-right:3px;
+}
+
+.paginationNumbers a:link {
+    color: #000;
+    text-decoration: none;
+    border:#999 1px solid; background-color:#F0F0F0; padding-left:3px; padding-right:3px;
+}
+
+.paginationNumbers a:visited {
+    color: #000;
+    text-decoration: none;
+    border:#999 1px solid; background-color:#F0F0F0; padding-left:3px; padding-right:3px;
+}
+
+.paginationNumbers a:hover {
+    color: #000;
+    text-decoration: none;
+    border:#060 1px solid; background-color: #D2FFD2; padding-left:3px; padding-right:3px;
+}
+
+.paginationNumbers a:active {
+    color: #000;
+    text-decoration: none;
+    border:#999 1px solid; background-color:#F0F0F0; padding-left:3px; padding-right:3px;
+}
+
+.buttonsBar
+{
+    text-align: right;
+    margin-top: 3px;
+}
+
+
+.bar{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.title{
+    background-color: RoyalBlue;
+    border: 2px solid blanchedAlmond;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 5px black;
+    color: white;
+    font-family: Lucida Grande;
+    font-size: 26px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 5px;
+    text-shadow: 1px 1px gray;
+}
